@@ -1,0 +1,131 @@
+GO_term,Triticum_aestivum,BIP,Expected,Enrichment,Fold_Enrichment,P_Value
+mitochondrial double-strand break repair via homologous recombination (GO:0097552),5,4,0.1,+,41.49,3.18E-02
+mitochondrial double-strand break repair (GO:0097551),5,4,0.1,+,41.49,3.18E-02
+plasma membrane organization (GO:0007009),10,6,0.19,+,31.12,6.60E-04
+mitochondrial transcription (GO:0006390),12,5,0.23,+,21.61,2.63E-02
+proton-transporting ATP synthase complex assembly (GO:0043461),17,7,0.33,+,21.36,4.77E-04
+mitochondrial proton-transporting ATP synthase complex assembly (GO:0033615),17,7,0.33,+,21.36,4.77E-04
+mitotic G2 DNA damage checkpoint signaling (GO:0007095),17,6,0.33,+,18.31,7.42E-03
+proton-transporting two-sector ATPase complex assembly (GO:0070071),30,8,0.58,+,13.83,1.02E-03
+tRNA wobble uridine modification (GO:0002098),38,10,0.73,+,13.65,4.16E-05
+enzyme-directed rRNA pseudouridine synthesis (GO:0000455),23,6,0.44,+,13.53,3.17E-02
+tRNA wobble base modification (GO:0002097),45,10,0.87,+,11.53,1.65E-04
+DNA replication checkpoint signaling (GO:0000076),37,8,0.71,+,11.21,3.99E-03
+mitotic DNA damage checkpoint signaling (GO:0044773),44,9,0.85,+,10.61,1.36E-03
+negative regulation of G2/M transition of mitotic cell cycle (GO:0010972),35,7,0.67,+,10.37,2.76E-02
+negative regulation of cell cycle G2/M phase transition (GO:1902750),35,7,0.67,+,10.37,2.76E-02
+mitotic G2/M transition checkpoint (GO:0044818),35,7,0.67,+,10.37,2.76E-02
+establishment of protein localization to mitochondrial membrane (GO:0090151),52,10,1,+,9.97,5.38E-04
+mitochondrial membrane organization (GO:0007006),58,11,1.12,+,9.84,1.54E-04
+protein insertion into mitochondrial membrane (GO:0051204),37,7,0.71,+,9.81,3.80E-02
+rRNA pseudouridine synthesis (GO:0031118),37,7,0.71,+,9.81,3.80E-02
+DNA integrity checkpoint signaling (GO:0031570),76,14,1.47,+,9.55,3.62E-06
+mitotic DNA integrity checkpoint signaling (GO:0044774),56,10,1.08,+,9.26,9.85E-04
+maturation of SSU-rRNA (GO:0030490),137,23,2.64,+,8.71,1.34E-10
+signal transduction in response to DNA damage (GO:0042770),60,10,1.16,+,8.64,1.73E-03
+DNA damage checkpoint signaling (GO:0000077),60,10,1.16,+,8.64,1.73E-03
+protein stabilization (GO:0050821),62,10,1.2,+,8.37,2.26E-03
+protein insertion into membrane (GO:0051205),70,11,1.35,+,8.15,8.30E-04
+cell cycle checkpoint signaling (GO:0000075),115,17,2.22,+,7.67,1.40E-06
+mitotic cell cycle checkpoint signaling (GO:0007093),92,13,1.77,+,7.33,2.26E-04
+regulation of protein stability (GO:0031647),73,10,1.41,+,7.1,8.49E-03
+ribosomal small subunit biogenesis (GO:0042274),271,37,5.23,+,7.08,1.74E-15
+negative regulation of cell cycle process (GO:0010948),126,17,2.43,+,7,4.90E-06
+negative regulation of cell cycle phase transition (GO:1901988),126,17,2.43,+,7,4.90E-06
+negative regulation of mitotic cell cycle phase transition (GO:1901991),76,10,1.47,+,6.82,1.17E-02
+rRNA modification (GO:0000154),138,18,2.66,+,6.76,2.72E-06
+protein localization to mitochondrion (GO:0070585),157,20,3.03,+,6.61,4.89E-07
+establishment of protein localization to mitochondrion (GO:0072655),157,20,3.03,+,6.61,4.89E-07
+negative regulation of mitotic cell cycle (GO:0045930),106,13,2.04,+,6.36,9.92E-04
+mitochondrial transport (GO:0006839),172,21,3.32,+,6.33,3.56E-07
+protein targeting to mitochondrion (GO:0006626),142,17,2.74,+,6.21,2.48E-05
+negative regulation of cell cycle (GO:0045786),146,17,2.82,+,6.04,3.61E-05
+"maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) (GO:0000462)",110,12,2.12,+,5.66,8.28E-03
+mitochondrial RNA metabolic process (GO:0000959),104,11,2.01,+,5.49,2.71E-02
+ribosomal small subunit assembly (GO:0000028),105,11,2.02,+,5.43,2.95E-02
+maturation of 5.8S rRNA (GO:0000460),110,11,2.12,+,5.19,4.39E-02
+rRNA metabolic process (GO:0016072),688,68,13.27,+,5.13,1.64E-22
+regulation of cell cycle phase transition (GO:1901987),172,17,3.32,+,5.13,3.19E-04
+maturation of LSU-rRNA (GO:0000470),122,12,2.35,+,5.1,2.18E-02
+tRNA modification (GO:0006400),280,27,5.4,+,5,1.35E-07
+rRNA processing (GO:0006364),647,60,12.47,+,4.81,2.27E-18
+regulation of mitotic cell cycle (GO:0007346),238,20,4.59,+,4.36,3.09E-04
+ribosome biogenesis (GO:0042254),1007,83,19.42,+,4.27,5.62E-23
+ribosome assembly (GO:0042255),209,17,4.03,+,4.22,3.92E-03
+ribosomal large subunit biogenesis (GO:0042273),271,22,5.23,+,4.21,1.32E-04
+ncRNA processing (GO:0034470),1116,90,21.52,+,4.18,1.85E-24
+mitochondrion organization (GO:0007005),386,31,7.44,+,4.17,3.78E-07
+tRNA processing (GO:0008033),377,29,7.27,+,3.99,3.59E-06
+ATP metabolic process (GO:0046034),223,17,4.3,+,3.95,8.82E-03
+RNA methylation (GO:0001510),250,19,4.82,+,3.94,2.57E-03
+ncRNA metabolic process (GO:0034660),1421,104,27.4,+,3.8,2.05E-25
+ribonucleoprotein complex biogenesis (GO:0022613),1235,89,23.81,+,3.74,5.15E-21
+purine ribonucleoside triphosphate metabolic process (GO:0009205),241,17,4.65,+,3.66,2.29E-02
+purine nucleoside triphosphate metabolic process (GO:0009144),244,17,4.7,+,3.61,2.66E-02
+regulation of cell cycle process (GO:0010564),260,18,5.01,+,3.59,1.62E-02
+"mRNA splicing, via spliceosome (GO:0000398)",539,36,10.39,+,3.46,1.54E-06
+RNA processing (GO:0006396),2101,135,40.51,+,3.33,2.51E-28
+RNA splicing (GO:0008380),675,43,13.01,+,3.3,1.46E-07
+"RNA splicing, via transesterification reactions with bulged adenosine as nucleophile (GO:0000377)",577,36,11.13,+,3.24,8.31E-06
+"RNA splicing, via transesterification reactions (GO:0000375)",577,36,11.13,+,3.24,8.31E-06
+gene expression (GO:0010467),4064,243,78.36,+,3.1,1.91E-48
+RNA modification (GO:0009451),1295,77,24.97,+,3.08,1.77E-13
+macromolecule methylation (GO:0043414),508,29,9.79,+,2.96,1.45E-03
+tRNA metabolic process (GO:0006399),670,38,12.92,+,2.94,3.47E-05
+regulation of cell cycle (GO:0051726),577,32,11.13,+,2.88,7.22E-04
+organelle assembly (GO:0070925),452,24,8.71,+,2.75,3.93E-02
+translation (GO:0006412),1652,85,31.85,+,2.67,1.82E-11
+mRNA metabolic process (GO:0016071),1159,59,22.35,+,2.64,3.96E-07
+peptide biosynthetic process (GO:0043043),1681,85,32.41,+,2.62,3.32E-11
+peptide metabolic process (GO:0006518),1788,89,34.47,+,2.58,1.70E-11
+amide biosynthetic process (GO:0043604),1839,89,35.46,+,2.51,8.14E-11
+cellular component biogenesis (GO:0044085),2889,138,55.7,+,2.48,1.86E-17
+mRNA processing (GO:0006397),875,40,16.87,+,2.37,3.99E-03
+amide metabolic process (GO:0043603),2115,93,40.78,+,2.28,4.53E-09
+protein-containing complex assembly (GO:0065003),1262,53,24.33,+,2.18,1.29E-03
+cellular component assembly (GO:0022607),1682,69,32.43,+,2.13,4.96E-05
+organelle organization (GO:0006996),2688,104,51.83,+,2.01,2.80E-07
+organonitrogen compound biosynthetic process (GO:1901566),3960,150,76.35,+,1.96,8.10E-11
+RNA metabolic process (GO:0016070),5957,224,114.86,+,1.95,4.25E-17
+cellular nitrogen compound metabolic process (GO:0034641),10282,383,198.25,+,1.93,2.10E-31
+cellular component organization or biogenesis (GO:0071840),6275,230,120.99,+,1.9,2.32E-16
+nucleic acid metabolic process (GO:0090304),7140,261,137.67,+,1.9,7.97E-19
+nucleobase-containing compound metabolic process (GO:0006139),8333,294,160.67,+,1.83,1.66E-19
+protein-containing complex organization (GO:0043933),2133,75,41.13,+,1.82,3.75E-03
+heterocycle metabolic process (GO:0046483),8994,307,173.41,+,1.77,2.08E-18
+organic cyclic compound metabolic process (GO:1901360),9990,320,192.62,+,1.66,2.43E-15
+cellular aromatic compound metabolic process (GO:0006725),9767,312,188.32,+,1.66,1.20E-14
+cellular component organization (GO:0016043),5352,164,103.19,+,1.59,4.15E-05
+cellular nitrogen compound biosynthetic process (GO:0044271),5310,153,102.38,+,1.49,4.07E-03
+nitrogen compound metabolic process (GO:0006807),23770,635,458.31,+,1.39,6.72E-16
+macromolecule metabolic process (GO:0043170),22242,588,428.85,+,1.37,2.98E-13
+cellular metabolic process (GO:0044237),22963,593,442.75,+,1.34,2.23E-11
+primary metabolic process (GO:0044238),28536,668,550.2,+,1.21,2.28E-05
+metabolic process (GO:0008152),33670,769,649.19,+,1.18,5.20E-05
+organic substance metabolic process (GO:0071704),31148,708,600.56,+,1.18,7.11E-04
+cellular process (GO:0009987),36066,803,695.38,+,1.15,1.50E-03
+Unclassified (UNCLASSIFIED),49858,954,961.31,-,0.99,0.00E+00
+response to stimulus (GO:0050896),10754,142,207.35,-,0.68,1.57E-03
+regulation of macromolecule metabolic process (GO:0060255),8431,110,162.56,-,0.68,1.88E-02
+regulation of biological process (GO:0050789),12121,157,233.7,-,0.67,6.20E-05
+regulation of metabolic process (GO:0019222),8555,110,164.95,-,0.67,8.10E-03
+regulation of gene expression (GO:0010468),7367,88,142.04,-,0.62,1.92E-03
+regulation of cellular process (GO:0050794),10444,122,201.37,-,0.61,1.22E-06
+regulation of primary metabolic process (GO:0080090),7835,88,151.07,-,0.58,3.63E-05
+regulation of nitrogen compound metabolic process (GO:0051171),7791,87,150.22,-,0.58,2.63E-05
+regulation of cellular metabolic process (GO:0031323),7293,78,140.62,-,0.55,1.16E-05
+regulation of nucleobase-containing compound metabolic process (GO:0019219),6590,66,127.06,-,0.52,3.60E-06
+regulation of macromolecule biosynthetic process (GO:0010556),6693,63,129.05,-,0.49,1.68E-07
+regulation of biosynthetic process (GO:0009889),6714,63,129.45,-,0.49,1.32E-07
+regulation of cellular biosynthetic process (GO:0031326),6702,62,129.22,-,0.48,6.75E-08
+regulation of RNA metabolic process (GO:0051252),6444,58,124.25,-,0.47,5.41E-08
+regulation of RNA biosynthetic process (GO:2001141),6240,53,120.31,-,0.44,6.99E-09
+regulation of DNA-templated transcription (GO:0006355),6240,53,120.31,-,0.44,6.99E-09
+cellular response to chemical stimulus (GO:0070887),2391,16,46.1,-,0.35,1.02E-03
+response to toxic substance (GO:0009636),1213,5,23.39,-,0.21,2.28E-02
+hormone-mediated signaling pathway (GO:0009755),1171,4,22.58,-,0.18,9.04E-03
+cellular response to hormone stimulus (GO:0032870),1171,4,22.58,-,0.18,9.04E-03
+cellular response to endogenous stimulus (GO:0071495),1177,4,22.69,-,0.18,9.26E-03
+cellular response to toxic substance (GO:0097237),903,1,17.41,-,0.06,2.06E-03
+cellular detoxification (GO:1990748),903,1,17.41,-,0.06,2.06E-03
+detoxification (GO:0098754),1123,1,21.65,-,0.05,3.49E-05

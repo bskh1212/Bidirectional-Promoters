@@ -1,0 +1,65 @@
+Go Term,Description,Quick GO Search
+GO:0001659,temperature homeostasis,Temperature
+GO:0060086,circadian temperature homeostasis,Temperature
+GO:0016048,detection of temperature stimulus,Temperature
+GO:0009266,response to temperature stimulus,Temperature
+GO:0050951,sensory perception of temperature stimulus,Temperature
+GO:0097603,temperature-gated ion channel activity,Temperature
+GO:0097604,temperature-gated cation channel activity,Temperature
+GO:0071502,"cellular response to temperature stimulus	",Temperature
+GO:0010378,temperature compensation of the circadian clock,Temperature
+GO:0043052,thermotaxis,Temperature
+GO:0050960,detection of temperature stimulus involved in thermoception,Temperature
+GO:0050961,detection of temperature stimulus involved in sensory perception,Temperature
+GO:0050965,detection of temperature stimulus involved in sensory perception of pain,Temperature
+GO:0040040,thermosensory behavior,Temperature
+GO:0036165,invasive growth in response to heat,Temperature
+GO:0009631,cold acclimation,Cold
+GO:0106106,cold-induced thermogenesis,Cold
+GO:0009409,response to cold,Cold
+GO:0070417,cellular response to cold,Cold
+GO:0062035,sensory perception of cold stimulus,Cold
+GO:0120161,regulation of cold-induced thermogenesis,Cold
+GO:0120162,positive regulation of cold-induced thermogenesis,Cold
+GO:0120163,negative regulation of cold-induced thermogenesis,Cold
+GO:0070415,trehalose metabolism in response to cold stress,Cold
+GO:0120169,detection of cold stimulus involved in thermoception,Cold
+GO:0061411,positive regulation of transcription from RNA polymerase II promoter in response to cold,Cold
+GO:0031653,"heat dissipation	",Heat
+GO:0031649,heat generation,Heat
+GO:0010286,heat acclimation,Heat
+GO:0070370,cellular heat acclimation,Heat
+GO:0009408,response to heat,Heat
+GO:0031650,regulation of heat generation,Heat
+GO:0031654,"regulation of heat dissipation	",Heat
+GO:0031072,heat shock protein binding,Heat
+GO:0034605,cellular response to heat,Heat
+GO:0006986,response to unfolded protein,Heat
+GO:0042026,protein refolding,Heat
+GO:0034620,cellular response to unfolded protein,Heat
+GO:0031651,negative regulation of heat generation,Heat
+GO:0031652,positive regulation of heat generation,Heat
+GO:0031655,"negative regulation of heat dissipation	",Heat
+GO:0031656,"positive regulation of heat dissipation	",Heat
+GO:0036165,invasive growth in response to heat,Heat
+GO:0035080,heat shock-mediated polytene chromosome puffing,Heat
+GO:1900034,regulation of cellular response to heat,Heat
+GO:0090441,"trehalose biosynthesis in response to heatstress	",Heat
+GO:0090442,"trehalose catabolism in response to heat stress	",Heat
+GO:0070414,trehalose metabolism in response to heat stress,Heat
+GO:0033638,modulation by symbiont of host heat acclimation,Heat
+GO:1900036,positive regulation of cellular response to heat,Heat
+GO:1900035,"negative regulation of cellular response to heat	",Heat
+GO:0031990,mRNA export from nucleus in response to heatstress,Heat
+GO:2000728,regulation of mRNA export from nucleus inresponse to heat stress,Heat
+GO:0036168,filamentous growth of a population of unicellular organisms in response to heat,Heat
+GO:0061408,positive regulation of transcription fromRNApolymerase II promoter in response to heat stress,Heat
+GO:1900431,"regulation of filamentous growth of a population of unicellular organisms in response to heat	9 annotations",Heat
+GO:1900432,negative regulation of filamentous growthofa population of unicellular organisms in response to heat,Heat
+GO:1900433,positive regulation of filamentous growthofa population of unicellular organisms in response to heat,Heat
+GO:0097603,temperature-gated ion channel activity,Heat
+GO:0097604,temperature-gated cation channel activity,Heat
+GO:0034480,phosphatidylcholine phospholipase C activity,Heat
+GO:1904592,positive regulation of protein refolding,Heat
+GO:0120168,detection of hot stimulus involved in thermoception,Heat
+GO:0050961,detection of temperature stimulus involved in sensory perception,Heat
